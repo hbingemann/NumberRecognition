@@ -1,0 +1,10 @@
+import pygame.font
+
+SCREEN_SIZE = SCREEN_WIDTH, SCREEN_HEIGHT = 800, 800
+FPS = 60
+BACKGROUND_COLOR = 10, 10, 10
+DRAWING_COLOR = 100, 200, 0
+
+FONT = pygame.font.get_default_font()
+FONT_SIZE = 20
+FONT_COLOR = 220, 220, 220
