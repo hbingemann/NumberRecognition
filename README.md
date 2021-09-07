@@ -1,1 +1,1 @@
-Recognize numbers with python and pygame
+Recognize numbers that you draw using python, tensorflow and pygame
